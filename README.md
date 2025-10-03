@@ -126,24 +126,6 @@
 
 ---
 
-
-### 🐧 Utilidades de Sistemas
-*Scripts y configuraciones para administración en Linux*
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Incluye:**
-- 🔧 Automatización de tareas
-- 📊 Monitoreo de sistemas
-- 🔒 Scripts de seguridad
-- ⚙️ Configuraciones optimizadas
-
-</div>
-
----
-
 ## 📬 Contacto
 
 <div align="center">

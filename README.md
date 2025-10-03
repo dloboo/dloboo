@@ -63,30 +63,6 @@
 
 </div>
 
-
-### 🤖 Inteligencia Artificial
-- Sistemas Inteligentes
-- Fundamentos de Machine Learning
-- Programación Avanzada
-- Algoritmos de Búsqueda
-- Resolución de Problemas
-
-</td>
-<td width="50%">
-
---
-
-### 🔒 Seguridad
-- Fundamentos de Ciberseguridad
-- Seguridad en Sistemas
-- Buenas Prácticas de Desarrollo
-- Gestión de Credenciales
-- Seguridad en Aplicaciones
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📬 Contacto

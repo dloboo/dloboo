@@ -16,12 +16,11 @@
 
 ## 🚀 Sobre mí
 
-```
+
 🎓  Estudiante de Ingeniería Informática en Salamanca
 📚  Aprendizaje continuo en IA, desarrollo web y ciberseguridad
 📍  Salamanca, España
 💡  Enfocado en crear software útil y bien documentado
-```
 
 ---
 
@@ -127,27 +126,6 @@
 
 ---
 
-## 🎯 Proyectos Destacados
-
-<div align="center">
-
-### 📱 CryptoTracker iOS
-*Aplicación de seguimiento de criptomonedas en tiempo real*
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0081CB?style=flat-square&logo=swift&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Pattern-green?style=flat-square)
-
-**Características:**
-- 🔄 Actualización en tiempo real con CoinGecko API
-- 💾 Persistencia con SwiftData
-- 💶 Conversión EUR/USD
-- ⭐ Lista de favoritos personalizable
-- 🎨 Interfaz moderna con SwiftUI
-
-[📂 Ver Proyecto](https://github.com/dloboo/CryptoTracker)
-
----
 
 ### 🐧 Utilidades de Sistemas
 *Scripts y configuraciones para administración en Linux*
@@ -163,32 +141,6 @@
 - ⚙️ Configuraciones optimizadas
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dloboo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dloboo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌱 Actualmente Aprendiendo
-
-```swift
-let currentFocus = [
-    "SwiftUI & iOS Development",
-    "Machine Learning & AI",
-    "Arquitecturas de Software",
-    "Seguridad en Aplicaciones",
-    "Cloud Computing"
-]
-```
 
 ---
 

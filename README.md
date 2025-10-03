@@ -8,3 +8,12 @@
 📚 Aprendiendo constantemente sobre inteligencia artificial, desarrollo web y ciberseguridad
 
 📍 Ubicación: Salamanca, España
+
+
+## 📫 Contacto
+
+✉️ Email: diegolobo@usal.com
+
+💼 LinkedIn: https://www.linkedin.com/in/diegoloboo/
+
+🐙 GitHub: dloboo

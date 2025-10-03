@@ -49,57 +49,20 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
+--
 
 ## 💼 Áreas de Conocimiento
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🔧 Desarrollo de Software
-- Programación Orientada a Objetos
-- Estructuras de Datos y Algoritmos
-- Ingeniería del Software
-- Patrones de Diseño (MVVM, MVC)
-- Testing y Pruebas de Software
+| 🔧 Desarrollo | 🗄️ Datos | 🌐 Web | 🖥️ Sistemas | 🤖 IA | 🔒 Seguridad |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| POO | SQL | HTML/CSS | Linux | ML | Ciberseguridad |
+| Algoritmos | Diseño BD | APIs REST | Redes | Sistemas Inteligentes | Buenas Prácticas |
+| Patrones | Normalización | UX/UI | Scripting | Búsqueda | App Security |
 
-</td>
-<td width="50%">
+</div>
 
-### 🗄️ Bases de Datos
-- Diseño de Bases de Datos
-- SQL y Consultas Avanzadas
-- Modelado Entidad-Relación
-- Normalización
-- Persistencia de Datos
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Desarrollo Web
-- HTML/CSS/JavaScript
-- Diseño Responsive
-- Usabilidad y Accesibilidad
-- APIs REST
-- Interacción Persona-Ordenador
-
-</td>
-<td width="50%">
-
-### 🖥️ Sistemas y Redes
-- Administración de Sistemas Linux
-- Sistemas Operativos (I & II)
-- Redes de Computadores
-- Arquitectura de Computadores
-- Scripting y Automatización
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🤖 Inteligencia Artificial
 - Sistemas Inteligentes
@@ -110,6 +73,8 @@
 
 </td>
 <td width="50%">
+
+--
 
 ### 🔒 Seguridad
 - Fundamentos de Ciberseguridad

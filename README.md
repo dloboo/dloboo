@@ -18,7 +18,7 @@
 🎓  Estudiante de Ingeniería Informática en Salamanca
 📚  Aprendizaje continuo en IA, desarrollo web y ciberseguridad
 📍  Salamanca, España
-💡  Enfocado en crear software útil y bien documentado
+💡  Enfocado en crear y aprender
 
 ---
 
@@ -77,7 +77,5 @@
 [![LinkedIn](https://img.shields.io/badge/Diego_Lobo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoloboo/)
 
 ---
-
-*"El código es poesía en movimiento"* ✨
 
 </div>

@@ -1,61 +1,112 @@
-### Hi there!, I'm Diego Lobo 👋
+<div align="center">
 
-<picture> 
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300px">
-</picture>
+# Diego Lobo 👋
 
-I am Diego, a Software Engineering student passionate about building native iOS applications, exploring Artificial Intelligence, and implementing cybersecurity best practices. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Native+iOS+Developer;Artificial+Intelligence+Enthusiast;CyberSecurity+Learner" alt="Typing SVG" />
 
-Currently in my 4th year at the University of Salamanca (USAL), I focus on creating clean, efficient, and secure code. I love tackling real-world challenges through technology, optimizing user experiences with SwiftUI, and continuously expanding my knowledge in smart systems and application security.
+<br>
 
-### About me ⚡
-🎓 Studying a Computer Engineering Degree at the University of Salamanca (4th year).
-<br />
-📱 Developing iOS apps using Swift, SwiftUI, and SwiftData.
-<br />
-🤖 Researching Machine Learning, Intelligent Systems, and AI.
-<br />
-🔒 Focused on CyberSecurity, App Hardening, and Development Best Practices.
-<br />
-📍 Based in Salamanca, Spain.
+<img src="https://komarev.com/ghpvc/?username=diegoloboo&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-### My tech stack(s) 🛠
+</div>
 
-<p align="center">
-  <h6>Mobile & FrontEnd</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,js,html,css" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <h6>BackEnd & Datos</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,fastapi" />
-  </a>
-</p>
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center">
-  <h6>Herramientas & Sistemas</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple" />
-  </a>
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <h6>Fundamentos & Lenguajes</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
-  </a>
-</p>
+I'm **Diego**, a Software Engineering student passionate about building native iOS applications, exploring Artificial Intelligence, and implementing cybersecurity best practices.
 
-### Contact Me ✉
+- 🎓 4th Year Software Engineering Student at **University of Salamanca (USAL)**
+- 📱 Developing native iOS applications using **Swift, SwiftUI & SwiftData**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Intelligent Systems**
+- 🔒 Interested in **CyberSecurity, App Hardening & Secure Development**
+- 💡 Passionate about creating clean, scalable and efficient software
+- 📍 Salamanca, Spain
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diegoloboo/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:diegolobo@usal.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+<br>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=swift,apple" />
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
+
+### 💻 Tools & Systems
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+### 📚 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java" />
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+📱 Native iOS Development
+🤖 Artificial Intelligence
+🔒 CyberSecurity
+⚡ Clean Architecture
+☁️ Backend Systems
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoloboo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoloboo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoloboo&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diegoloboo/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:diegolobo@usal.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building the future, one line of code at a time.
+
+</div>
